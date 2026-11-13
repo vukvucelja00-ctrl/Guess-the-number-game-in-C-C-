@@ -1,0 +1,6 @@
+guess_c
+guess_cpp
+a.out
+*.o
+*.dSYM/
+.DS_Store
